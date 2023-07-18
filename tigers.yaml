@@ -1,6 +1,11 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: Brenda 
+=======
+manager: Deborah
+coach: Ruth 
+>>>>>>> to-merge
 
 members:
 - Linda
